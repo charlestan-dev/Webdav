@@ -1,0 +1,10 @@
+{
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com:443",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "alist",
+        "password": "alist"
+      }
+    }
