@@ -1,4 +1,4 @@
-{"vodPic":"https://www.citypng.com/public/uploads/preview/yellow-computer-folder-icon-download-png-7017516950339154cbr0m5roh.png",
+{
     "drives": [
         {
             "name": "七米蓝",
@@ -8,15 +8,16 @@
             "login": {
                 "username": "alist",
                 "password": "alist"
-            } , {
-            "name": "板爷",
-            "server": "https://ruku.banye.tech:8283",
-            "search": true,
-            "hidden": false,
-            "login": {
-                "username": "banye",
-                "password": "niubi"
-            }
+            }， {
+      "name": "板爷",
+      "server": "https://ruku.banye.tech:8283",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "banye",
+        "password": "niubi"
+      }
+    }
         }
-          ]
+    ]
 }
