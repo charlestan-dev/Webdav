@@ -9,7 +9,8 @@
                 "username": "alist",
                 "password": "alist"
             } ,
-          "drives": {
+          "drives": 
+            {
             "name": "板爷",
             "server": "https://ruku.banye.tech:8283",
             "search": true,
