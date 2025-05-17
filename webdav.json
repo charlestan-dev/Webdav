@@ -8,7 +8,8 @@
             "login": {
                 "username": "alist",
                 "password": "alist"
-            } , {
+            } ],
+          "drives":[  {
             "name": "板爷",
             "server": "https://ruku.banye.tech:8283",
             "search": true,
@@ -18,5 +19,5 @@
                 "password": "niubi"
             }
         }
-    
+          ]
 }
